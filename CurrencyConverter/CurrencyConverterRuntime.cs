@@ -20,8 +20,8 @@ namespace CurrencyConverter
             {
                 input = Console.ReadLine();
 
-                //ICurrencyConverter converter = provider.CurrencyConverter();
-                ICurrencyConverter converter = new DataBaseCurrencyConverter();
+                ICurrencyConverter converter = provider.CurrencyConverter();
+                //ICurrencyConverter converter = new DataBaseCurrencyConverter();
 
                 Parser.Default.ParseArguments<UserCommandOptions>(input?.Split(' '))
                     .WithParsed(options =>
