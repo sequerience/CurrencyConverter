@@ -1,0 +1,13 @@
+C:\Users\denis\Desktop\CurrencyConverter\CurrencyConverterCore\bin\Release\net7.0\CurrencyConverterCore.dll.config
+C:\Users\denis\Desktop\CurrencyConverter\CurrencyConverterCore\bin\Release\net7.0\CurrencyConverterCore.deps.json
+C:\Users\denis\Desktop\CurrencyConverter\CurrencyConverterCore\bin\Release\net7.0\CurrencyConverterCore.dll
+C:\Users\denis\Desktop\CurrencyConverter\CurrencyConverterCore\bin\Release\net7.0\CurrencyConverterCore.pdb
+C:\Users\denis\Desktop\CurrencyConverter\CurrencyConverterCore\obj\Release\net7.0\CurrencyConverterCore.csproj.AssemblyReference.cache
+C:\Users\denis\Desktop\CurrencyConverter\CurrencyConverterCore\obj\Release\net7.0\CurrencyConverterCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\Desktop\CurrencyConverter\CurrencyConverterCore\obj\Release\net7.0\CurrencyConverterCore.AssemblyInfoInputs.cache
+C:\Users\denis\Desktop\CurrencyConverter\CurrencyConverterCore\obj\Release\net7.0\CurrencyConverterCore.AssemblyInfo.cs
+C:\Users\denis\Desktop\CurrencyConverter\CurrencyConverterCore\obj\Release\net7.0\CurrencyConverterCore.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\CurrencyConverter\CurrencyConverterCore\obj\Release\net7.0\CurrencyConverterCore.dll
+C:\Users\denis\Desktop\CurrencyConverter\CurrencyConverterCore\obj\Release\net7.0\refint\CurrencyConverterCore.dll
+C:\Users\denis\Desktop\CurrencyConverter\CurrencyConverterCore\obj\Release\net7.0\CurrencyConverterCore.pdb
+C:\Users\denis\Desktop\CurrencyConverter\CurrencyConverterCore\obj\Release\net7.0\ref\CurrencyConverterCore.dll
